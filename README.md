@@ -34,7 +34,15 @@ THEN the saved events persist
 
 ## Changes added
 
+* Use moment js to get today's date and the current hour. https://momentjs.com/docs/
 
+* Use local storgae to get and set the events
+
+* Use DOM traversals to get the parent and the children of any element.
+
+* Use addClass and removeClass functions.
 ## Result
 
 Deployed URL: https://divyapriyababu.github.io/Work_Day_Scheduler/
+
+![](./assets/screenshots/work-scheduler.png)
